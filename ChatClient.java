@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 
 import javax.swing.JOptionPane;
 
-
+// just checking
 public class ChatClient implements Runnable, ChatClientInterface {
 	private static int CHAT_ROOM_PORT = 0;
 	boolean local =true;
